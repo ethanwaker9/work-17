@@ -1,4 +1,4 @@
-# Efficient Sieving Strategies Under the Practical Memory Budget
+# Sieving Strategies Under the Practical Memory Budget
 
 This repository contains the ball model list size law for lattice sieves, a head accurate simulator for pump and jump BKZ, our `Bellek` as a memory budgeted optimal strategy search, and implementations of core of strategy selector techniques that we compare against, inside one framework.
 
@@ -22,7 +22,7 @@ export `ARCHFLAGS="-arch arm64"`, and guard the two `#include <immintrin.h>` lin
 
 ## Implementation content
 
-`geometry.py` contains  ball volumes, cap measures, Gaussian heuristic, profiles; `listsize.py` has reducing pair probability, N*, AGPS20 and G6K laws, memory; `costmodel.py` consists of sieve, pump and PnJBKZ time and memory models; `simulators.py` contains CN11, PnJBKZ, the two AsiaCCS'23 (WWW23) variants, and ours; `svpdim.py` has exit dimension estimators, including the cylinder rule; `strategies.py` G6K default, pBKZ, BKZ 2.0, AsiaCCS'23 trade-off, PSSearch; `challenges.py` has Darmstadt SVP challenge download and loading.
+Our `geometry.py` contains  ball volumes, cap measures, Gaussian heuristic, profiles; `listsize.py` has reducing pair probability, N*, AGPS20 and G6K laws, memory; `costmodel.py` consists of sieve, pump and PnJBKZ time and memory models; `simulators.py` contains CN11, PnJBKZ, the two AsiaCCS'23 (WWW23) variants, and ours; `svpdim.py` has exit dimension estimators, including the cylinder rule; `strategies.py` G6K default, pBKZ, BKZ 2.0, AsiaCCS'23 trade-off, PSSearch; `challenges.py` has Darmstadt SVP challenge download and loading.
 
 ## Running the experiments
 
