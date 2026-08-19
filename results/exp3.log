@@ -1,0 +1,16 @@
+jump 1 tour 1 {'CN11': np.float64(0.0684), 'PnJBKZ': np.float64(0.0684), 'S5': np.float64(0.1017), 'S6': np.float64(0.1414), 'Bellek': np.float64(0.2017)}
+jump 1 tour 2 {'CN11': np.float64(0.0975), 'PnJBKZ': np.float64(0.0975), 'S5': np.float64(0.0871), 'S6': np.float64(0.1137), 'Bellek': np.float64(0.2731)}
+jump 1 tour 3 {'CN11': np.float64(0.0627), 'PnJBKZ': np.float64(0.0627), 'S5': np.float64(0.0517), 'S6': np.float64(0.0731), 'Bellek': np.float64(0.2389)}
+jump 1 tour 4 {'CN11': np.float64(0.0857), 'PnJBKZ': np.float64(0.0857), 'S5': np.float64(0.0567), 'S6': np.float64(0.0629), 'Bellek': np.float64(0.2028)}
+jump 4 tour 1 {'CN11': np.float64(0.2737), 'PnJBKZ': np.float64(0.224), 'S5': np.float64(0.0869), 'S6': np.float64(0.1031), 'Bellek': np.float64(0.1287)}
+jump 4 tour 2 {'CN11': np.float64(0.3356), 'PnJBKZ': np.float64(0.2862), 'S5': np.float64(0.125), 'S6': np.float64(0.0739), 'Bellek': np.float64(0.1)}
+jump 4 tour 3 {'CN11': np.float64(0.2299), 'PnJBKZ': np.float64(0.1973), 'S5': np.float64(0.1029), 'S6': np.float64(0.0579), 'Bellek': np.float64(0.1066)}
+jump 4 tour 4 {'CN11': np.float64(0.278), 'PnJBKZ': np.float64(0.2445), 'S5': np.float64(0.1486), 'S6': np.float64(0.0928), 'Bellek': np.float64(0.1544)}
+jump 8 tour 1 {'CN11': np.float64(0.6508), 'PnJBKZ': np.float64(0.454), 'S5': np.float64(0.2094), 'S6': np.float64(0.1566), 'Bellek': np.float64(0.1383)}
+jump 8 tour 2 {'CN11': np.float64(0.6274), 'PnJBKZ': np.float64(0.4635), 'S5': np.float64(0.2343), 'S6': np.float64(0.1083), 'Bellek': np.float64(0.1091)}
+jump 8 tour 3 {'CN11': np.float64(0.646), 'PnJBKZ': np.float64(0.5155), 'S5': np.float64(0.3378), 'S6': np.float64(0.162), 'Bellek': np.float64(0.1263)}
+jump 8 tour 4 {'CN11': np.float64(0.538), 'PnJBKZ': np.float64(0.408), 'S5': np.float64(0.2615), 'S6': np.float64(0.1049), 'Bellek': np.float64(0.0819)}
+jump 12 tour 1 {'CN11': np.float64(1.2555), 'PnJBKZ': np.float64(0.8567), 'S5': np.float64(0.4651), 'S6': np.float64(0.2765), 'Bellek': np.float64(0.2421)}
+jump 12 tour 2 {'CN11': np.float64(1.3869), 'PnJBKZ': np.float64(1.0913), 'S5': np.float64(0.7272), 'S6': np.float64(0.3816), 'Bellek': np.float64(0.3532)}
+jump 12 tour 3 {'CN11': np.float64(1.1486), 'PnJBKZ': np.float64(0.874), 'S5': np.float64(0.6202), 'S6': np.float64(0.2602), 'Bellek': np.float64(0.1869)}
+jump 12 tour 4 {'CN11': np.float64(0.9918), 'PnJBKZ': np.float64(0.7591), 'S5': np.float64(0.5466), 'S6': np.float64(0.2072), 'Bellek': np.float64(0.143)}

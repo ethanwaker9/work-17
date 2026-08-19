@@ -1,0 +1,60 @@
+{
+ "dim": 140,
+ "sweep": [
+  {
+   "eps": 0.032,
+   "walltime": 23.529554843902588,
+   "peak_bytes": 3545408,
+   "pred_time": 244981.2880037492,
+   "dsvp": 113,
+   "frontier": 52,
+   "sims": 22875,
+   "steps": 14,
+   "completed": 1
+  },
+  {
+   "eps": 0.016,
+   "walltime": 45.97236204147339,
+   "peak_bytes": 7317448,
+   "pred_time": 243005.08327866433,
+   "dsvp": 113,
+   "frontier": 105,
+   "sims": 45533,
+   "steps": 17,
+   "completed": 1
+  },
+  {
+   "eps": 0.008,
+   "walltime": 99.52837204933167,
+   "peak_bytes": 13490864,
+   "pred_time": 242812.17083039327,
+   "dsvp": 113,
+   "frontier": 228,
+   "sims": 100221,
+   "steps": 14,
+   "completed": 1
+  },
+  {
+   "eps": 0.004,
+   "walltime": 221.5433168411255,
+   "peak_bytes": 22075140,
+   "pred_time": 241496.60932882378,
+   "dsvp": 113,
+   "frontier": 526,
+   "sims": 199108,
+   "steps": 14,
+   "completed": 1
+  },
+  {
+   "eps": 0.0,
+   "walltime": 979.6347670555115,
+   "peak_bytes": 325848164,
+   "pred_time": 1706641.6512951534,
+   "dsvp": 80,
+   "frontier": 14871,
+   "sims": 552679,
+   "steps": 0,
+   "completed": 0
+  }
+ ]
+}
